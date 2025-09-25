@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sai Pranav 👋<br><br>I’m a Full Stack Web Developer with over 2.8 years of experience building scalable and user-friendly web applications. I specialize in React, Node.js, Express, and MongoDB, and I enjoy turning complex problems into clean, efficient solutions.<br><br>I have a strong interest in front-end development, AI, and automation, and I love exploring projects that combine web development with machine learning and data analysis.<br><br>When I’m not coding, I enjoy gaming, solving puzzles, and creating fun tech projects.<br><br>💬 Feel free to connect or collaborate on interesting projects!
+Hi, I’m Sai Pranav 👋<br><br>I’m a Web Developer with over 2.8 years of experience building scalable and user-friendly web applications. I specialize in React, Node.js, Express, and MongoDB, and I enjoy turning complex problems into clean, efficient solutions.<br><br>I have a strong interest in front-end development, AI, and automation, and I love exploring projects that combine web development with machine learning and data analysis.<br><br>When I’m not coding, I enjoy gaming, solving puzzles, and creating fun tech projects.<br><br>💬 Feel free to connect or collaborate on interesting projects!
 
 
 ## 🌐 Socials:
